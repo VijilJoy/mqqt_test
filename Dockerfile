@@ -12,4 +12,4 @@ COPY . .
 
 EXPOSE 1883
 
-CMD [ "node", "App.js" ]
+CMD [ "node", "app.js" ]
