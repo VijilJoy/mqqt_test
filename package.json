@@ -4,8 +4,8 @@
   "description": "NodeMCU NodeJS Interfacing",
   "main": "app.js",
   "scripts": {
-    "start": "node app",
-    "dev": "nodemon app"
+    "dev": "node app",
+    "start": "nodemon app"
   },
   "repository": {
     "type": "git",
